@@ -1,0 +1,12 @@
+.image {
+  height: 757px;
+  width: 1215px;
+}
+
+.image .img {
+  height: 757px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1215px;
+}
